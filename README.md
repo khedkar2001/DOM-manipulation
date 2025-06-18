@@ -4,7 +4,7 @@ This is a simple counter web application built using **HTML**, **CSS**, and **Ja
 
 ## 🔗 Live Demo
 
-Check it out here: [https://dipto07.github.io/DOM-Manupulation/](https://dipto07.github.io/DOM-Manupulation/)
+Check it out here: [[(https://dommanipulationsk.netlify.app/)](https://dommanipulationsk.netlify.app/)]
 
 ## 📋 Features
 
